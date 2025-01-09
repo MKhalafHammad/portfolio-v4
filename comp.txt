@@ -1,0 +1,7 @@
+I want to create a portfolio website for a software engineer. and i want to use the following amazing components:
+
+1- @/components/eldoraui/blurin.tsx, and @/components/eldoraui/scrollbasedvelocity.tsx for text animation
+2- also @/components/eldoraui/sphereanimation.tsx for animated sphere
+3- npm i framer-motion clsx tailwind-merge three @react-three/fiber @types/three for card Spotlight hover effect
+3- npx shadcn@latest add "https://magicui.design/r/box-reveal"
+
