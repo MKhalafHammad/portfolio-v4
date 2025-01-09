@@ -1,0 +1,12 @@
+name = "portfolio-v4"
+compatibility_date = "2023-12-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Configure routes for static assets and API endpoints
+[routes]
+include = ["/*"]
+exclude = ["/api/*"]
+
+# Configure build settings
+[build]
+command = "npm run build" 
